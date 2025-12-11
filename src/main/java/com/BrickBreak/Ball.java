@@ -62,6 +62,6 @@ public class Ball {
 		this.velocityX=velocityX;
 	}
 	public void setYVelocity(int velocityY){
-		this.velocityX=velocityY;
+		this.velocityY=velocityY;
 	}
 }
