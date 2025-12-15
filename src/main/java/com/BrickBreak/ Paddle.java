@@ -3,7 +3,7 @@ package com.BrickBreak;
 import java.awt.Graphics;
 import java.awt.*;
 
-public class Paddle {
+public class Paddle{
 	private int x;
 	private int y;
 	private int width;
